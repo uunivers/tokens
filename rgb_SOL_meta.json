@@ -5,13 +5,14 @@
   "image": "https://raw.githubusercontent.com/uunivers/tokens/main/rgbcoin_512.svg",
   "external_url": "https://tokens.revena.com",
   "extensions": {
-    "website":"https://uunivers.swiss",
-    "twitter":"https://x.com/uunivers",
-    "discord":"https://discord.gg/pU3efCxY"
+    "website": "https://uunivers.swiss",
+    "twitter": "https://x.com/uunivers",
+    "discord": "https://discord.gg/pU3efCxY"
   },
   "creator": {
-    "name":"REVENA SA",
-    "site":"https://revena.com"
+    "name": "REVENA SA",
+    "site": "https://revena.com"
   }
 }
+
 
