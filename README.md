@@ -4,7 +4,7 @@
 
 ## Blockchains
 
-### Ravencoin ![Ravencoin logo](/Logos/ravencoin-rvn-logo.svg =32x32)
+### Ravencoin ![Ravencoin logo<img src="/Logos/ravencoin-rvn-logo.svg" width="250"/>](/Logos/ravencoin-rvn-logo.svg)
 ### Polygon
 
 ### Solana
